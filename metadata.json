@@ -1,0 +1,6 @@
+{
+  "name": "GSG Soluções",
+  "description": "Aplicativo corporativo da GSG Soluções & Capacitação - Formação profissional, consultoria empresarial e prestação de serviços de excelência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
